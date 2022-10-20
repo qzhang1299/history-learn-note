@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "e9c76158f6c84433",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c16e6830fc80822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d74b4e4c31018e34",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d930049bd149076",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fcb1d54fc77dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fafe6d892702af8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "268e9570715d79d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#李斯之谋",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2da92e1ec1c06b6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ecb96e1537ba242",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4fb1a306f098635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddf8944541a4cc08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5ef608196614aff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e5f67a5a9df6d69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05961bf82c502819",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea9d5cdd725cab5b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d74b4e4c31018e34",
+  "lastOpenFiles": [
+    "历史/资治通鉴/通鉴纪年/秦纪二.md",
+    "历史/资治通鉴/通鉴纪年/陈涉.md",
+    "历史/资治通鉴/通鉴纪年/秦朝制度与建设.md",
+    "历史/资治通鉴/通鉴纪年/秦始皇.md",
+    "历史/资治通鉴/李斯.md",
+    "历史/资治通鉴/通鉴纪年/秦纪一.md",
+    "历史/资治通鉴/通鉴纪年/王翦.md",
+    "历史/资治通鉴/通鉴纪年/荆轲.md",
+    "附件/Pasted image 20221014134556.png",
+    "附件/Pasted image 20221012132626.png"
+  ]
+}
