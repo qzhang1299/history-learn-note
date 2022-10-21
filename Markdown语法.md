@@ -1,4 +1,4 @@
-  [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
+[Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
 [Markdown 标题语法](https://markdown.com.cn/basic-syntax/headings.html)    
 [Markdown 段落语法](https://markdown.com.cn/basic-syntax/paragraphs.html)
 [Markdown 换行语法](https://markdown.com.cn/basic-syntax/line-breaks.html)
@@ -11,10 +11,37 @@
 [Markdown 图片语法](https://markdown.com.cn/basic-syntax/images.html)
 [Markdown 转义字符语法](https://markdown.com.cn/basic-syntax/escaping-characters.html)[Markdown 内嵌 HTML 标签](https://markdown.com.cn/basic-syntax/htmls.html)
 
+- [ ] todo1  CTRL+L 
+- [ ] todo2
+- [ ] todo3
+- aa
+- bb
+- cc
+1. aa
+2. bb
+3. cc
 
+# SING
+====
+标注
+> [!note] 标注 
+> 这是一条标注
+
+code block   ``````
+``` code
+     if()
+     then 
+     do()
+```
+
+
+
+加亮显示
 ==JLJL==
 ==12223===
 
+%%注释，就是在编辑时可以看见，预览不显示%%
+\%%这是一条注释%%
 
  - 周纪二
 

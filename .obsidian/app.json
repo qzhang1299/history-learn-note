@@ -6,9 +6,10 @@
   "attachmentFolderPath": "附件",
   "newFileLocation": "current",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 86
   }
 }
